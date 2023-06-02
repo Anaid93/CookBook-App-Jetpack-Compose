@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">CookBook</string>
+
+    <string name="list_fragment_label">CookBook</string>
+    <string name="detail_fragment_label">Recipe Info</string>
+
+    <string name="classic_stuffed_peppers">Classic Stuffed Peppers</string>
+    <string name="creamy_tuscan_salmon">Creamy Tuscan Salmon</string>
+    <string name="frittata_affogato">Frittata Affogato</string>
+    <string name="grilled_tomatoes">Grilled Tomatoes</string>
+    <string name="hawaiian_garlic_shrimp">Hawaiian Garlic Shrimp</string>
+    <string name="key_lime_pie">Key Lime Pie Mousse"</string>
+    <string name="pumpkin_cheesecake">Pumpkin Cheesecake</string>
+    <string name="caramel_apple_pie">Salted Caramel Apple Pie</string>
+    <string name="caramel_chocolate">Salted Caramel Chocolate Fudge Cake</string>
+    <string name="skillet_enchilada">Skillet Enchilada Meatballs</string>
+    <string name="vegan_lasagna">Vegan Lasagna</string>
+
+    <string name="ingredients_name">Ingredients</string>
+    <string name="steps">Steps</string>
+
+    <string name="servings">
+        Servings
+        \n
+        X
+    </string>
+
+    <string name="time">
+        Time
+        \n
+        X minutes
+    </string>
+
+    <string name="ingredients">
+        Lorem ipsum dolor sit amet
+        \n\n
+        consectetur adipiscing elit
+        \n\n
+        sed do eiusmod tempor
+        \n\n
+        Ut enim ad minim veniam
+        \n\n
+        Duis aute irure dolor
+    </string>
+    <string name="recipe_detail_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+    </string>
+
+    <string name="back_button">Back</string>
+</resources>
